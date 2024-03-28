@@ -1,3 +1,7 @@
+---
+title: Align X axis
+layout: default
+---
 # How to align the gantry
 
 ## Square the gantry

@@ -1,3 +1,7 @@
+---
+title: Wrong Movement
+layout: default
+---
 # Printer moves / homes in the wrong direction
 
 ## fix Z stepper
