@@ -13,8 +13,6 @@ callouts:
   stop:
     color: red
 
-plugins:
-  - jekyll-relative-links
 
 aux_links:
   "Support me on Ko-Fi":
