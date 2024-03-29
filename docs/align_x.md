@@ -15,4 +15,4 @@ layout: default
 8. Tighten the side with gap between rail and object or loosen the side sitting on the objects
 9. Repeat last step until it both sides always rest on the object after every move of the tool head (move it up/down and left/right)
 
-Video guide: https://www.youtube.com/watch?v=cWhMmVQAloU&start=33940
+Video guide: <https://www.youtube.com/watch?v=cWhMmVQAloU&start=33940>
