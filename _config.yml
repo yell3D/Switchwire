@@ -1,9 +1,11 @@
 title: Yells Switchwire Notes
 description: Informations and Troubleshooting
 theme: just-the-docs
+color_scheme: dark
 
 markdown: kramdown
-url: https://yell3d.github.io/Switchwire/
+url: https://yell3d.github.io
+baseurl: /Switchwire
 logo: "/res/img/yell.png"
 favicon_ico: "/res/img/favicon.ico"
 callouts:
