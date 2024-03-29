@@ -4,23 +4,6 @@ layout: default
 nav_order: 2
 ---
 
-# Switchwire
-Information's and Troubleshooting
-
-So .. you want to build a Switchwire from scratch or an Ender3?
-
-Sure go ahead, nobody ain't stopping you but you should be aware of the cost and effort it takes.
-
-If this helped you in anyway and want to show appreciation feel free to buy me a coffee
-
-[![ko-fi.com/yell3d](/res/img/kofi_bg_tag_dark.webp)](https://ko-fi.com/yell3d)
-
-[ko-fi.com/yell3d](https://ko-fi.com/yell3d "ko-fi.com/yell3d")
-
-
-# Troubleshooting
-
-See the different `.md` files in this repository.
 
 # Alternative
 
@@ -28,7 +11,7 @@ See the different `.md` files in this repository.
 * If you're want a overall better printer https://github.com/yell3D/Ender3dent
 * If you don't know, sell/trash the Ender and buy a cheap Trident (preferred) or V2.4r2 300 kit on sale
 
-<img width="200" alt="Fysetc 300 V2 for 540€ incl. 19% VAT" src="/res/img/fysetc_300_v2.4r2._540euro_including_19percent_vat_summer-sale.png">
+<img width="200" alt="Fysetc 300 V2 for 540€ incl. 19% VAT" src="../res/img/fysetc_300_v2.4r2._540euro_including_19percent_vat_summer-sale.png">
 
 (This price includes shipping and 19% Value Added Tax)
 
@@ -39,12 +22,12 @@ The build in itself is expensive and may not as easy as you think. The current r
 
 You can find more information on [their GitHub site](https://github.com/Lzhikai/SIBOOR-E3-SW) and its available on their Ali-express site:
 
-[![Siboor EW](/res/img/siboor_ew_200px.webp)](https://s.click.aliexpress.com/e/_DdmmSq1) (referral link)
+[![Siboor EW](../res/img/siboor_ew_200px.webp)](https://s.click.aliexpress.com/e/_DdmmSq1) (referral link)
 
 
 # Things i knew before
 
-<img height="60" alt="If Only You Knew How Bad Things Really Are" src="/res/img/if_only_you_knew_how_bad_things_really_are.jpg">
+<img height="60" alt="If Only You Knew How Bad Things Really Are" src="../res/img/if_only_you_knew_how_bad_things_really_are.jpg">
 
 * DO NOT BUY AN ENDER JUST TO CONVERT IT
 * expensive

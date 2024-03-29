@@ -48,7 +48,7 @@ enable_force_move: True
 
 
 
-<img alt="SW Steppers" src="/res/img/SW-steppers.png">
+<img alt="SW Steppers" src="../res/img/SW-steppers.png">
 
 To invert a stepper add a `!` to the `dir_pin`.
 
